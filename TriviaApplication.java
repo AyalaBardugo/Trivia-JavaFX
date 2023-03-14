@@ -11,7 +11,7 @@ public class TriviaGameApplication extends Application {
     @Override
     public void start(Stage stage) throws IOException {
         FXMLLoader fxmlLoader = new FXMLLoader(TriviaGameApplication.class.getResource("triviaGame.fxml"));
-        Scene scene = new Scene(fxmlLoader.load(), 670, 470);
+        Scene scene = new Scene(fxmlLoader.load(), 915, 610);
         stage.setTitle("Hello To The Trivia Game!");
         stage.setScene(scene);
         stage.show();
