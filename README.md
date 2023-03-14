@@ -1,5 +1,8 @@
 # Trivia Game JavaFX
 This is a JavaFX application that provides a simple trivia game. The app reads trivia questions from a text file, randomizes them, and displays them one at a time to the user. The user must then select an answer from a set of possible answers, and their score is updated accordingly.
+ ## Demo
+ 
+ <img width="905" alt="ללא שם 5" src="https://user-images.githubusercontent.com/120474850/225108538-3e1f0127-6e00-44f0-82a7-b9f32ea19519.png">
 
 The app consists of four Java files:
 
